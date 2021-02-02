@@ -1,7 +1,10 @@
 # An-OCR-System-for-Baybayin-Scripts-using-SVM
 A proposed algorithm to recognize Baybayin writing system using support vector machine.
 
-(NOTE: The files described here can be downloaded in Release section)
+<b> NOTE: The complete system files (generated SVM models, example images, etc.) described here can be downloaded in Release section. Its source filename is `An.OCR.System.for.Baybayin.Scripts.using.SVM.zip`. The following link provides the compressed system file page:
+  
+https://github.com/rbp0803/An-OCR-System-for-Baybayin-Scripts-using-SVM/releases/tag/v1.0.2.
+</b>
 
 The following codes and variables are produced entirely in MATLAB whose functions or uses are describe below:
 
