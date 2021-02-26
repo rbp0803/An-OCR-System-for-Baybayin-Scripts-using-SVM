@@ -1,5 +1,5 @@
 # An-OCR-System-for-Baybayin-Scripts-using-SVM
-A proposed algorithm to recognize Baybayin writing system using support vector machine.
+A proposed algorithm to recognize Baybayin writing system using support vector machine. You can check the full paper here: https://peerj.com/articles/cs-360/.
 
 <b> NOTE: The complete system files (generated SVM models, example images, etc.) described here can be downloaded in Release section. Its source filename is `An.OCR.System.for.Baybayin.Scripts.using.SVM.zip`. The following link provides the compressed system file page:
   
